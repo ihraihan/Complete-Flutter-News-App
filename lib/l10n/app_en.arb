@@ -1,0 +1,23 @@
+{
+    "language": "English", 
+    "home": "Home",
+    "explore": "Explore",
+    "saved": "Saved",
+    "settings": "Settings",
+    "categories": "Categories",
+    "generalSettings": "General Settings",
+    "notfication": "Notfication",
+    "darkMode": "Dark Mode",
+    "changeLanguge": "Language",
+    "about": "About",
+    "termsAndConditions": "Terms & Conditions",
+    "privacyPolicy": "Privacy Policy",
+    "rateThisApp": "Rate this app",
+    "social": "Social",
+    "contactUs": "Contact Us",
+    "website": "Website",
+    "savedSectionTitle":"Hey! It's empty here",
+    "savedSectionMsg":"If you browse and save some article, it will be here",
+    "notificationSectionTitle":"Hey! There is no notification",
+    "notificationSectionMsg":"As soon as some notifications arrive, we'll save them here"
+}

@@ -1,0 +1,23 @@
+{
+    "language": "Deutsch", 
+    "home": "Heimat",
+    "explore": "erforschen",
+    "saved": "Gerettet",
+    "settings": "Einstellung",
+    "categories": "Kategories",
+    "generalSettings": "Allgemeine Einstellungen",
+    "notfication": "Benachrichtigung",
+    "darkMode": "Dunkler Modus",
+    "changeLanguge": "Sprache",
+    "about": "über",
+    "termsAndConditions": "Terms & Bedingungen",
+    "privacyPolicy": "Datenschutz-Bestimmungen",
+    "rateThisApp": "Bewerte diese App",
+    "social": "sozialen Medien",
+    "contactUs": "Kontaktiere uns",
+    "website": "Webseite",
+    "savedSectionTitle":"Hey! Hier ist es leer",
+    "savedSectionMsg":"Wenn Sie einen Artikel durchsuchen und speichern, wird er hier angezeigt",
+    "notificationSectionTitle":"Hey! Es erfolgt keine Benachrichtigung",
+    "notificationSectionMsg":"Sobald einige Benachrichtigungen eintreffen, speichern wir sie hier"
+}

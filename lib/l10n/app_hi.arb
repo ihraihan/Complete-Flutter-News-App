@@ -1,0 +1,23 @@
+{
+    "language": "हिन्दी", 
+    "home": "घर",
+    "explore": "अन्वेषण करना",
+    "saved": "सहेजें",
+    "settings": "समायोजन",
+    "categories": "श्रेणियाँ",
+    "generalSettings": "सामान्य सेटिंग्स",
+    "notfication": "अधिसूचना",
+    "darkMode": "डार्क मोड",
+    "changeLanguge": "भाषा",
+    "about": "के बारे में",
+    "termsAndConditions": "नियम एवं शर्तें",
+    "privacyPolicy": "गोपनीयता नीति",
+    "rateThisApp": "इस ऐप्लिकेशन को रेट करें",
+    "social": "सामाजिक मीडिया",
+    "contactUs": "संपर्क करना",
+    "website": "वेबसाइट",
+    "savedSectionTitle":"अरे! यह यहाँ खाली है",
+    "savedSectionMsg":"यदि आप कुछ लेख ब्राउज़ करते हैं और सहेजते हैं, तो वह यहां होगा",
+    "notificationSectionTitle":"अरे! कोई सूचना नहीं है",
+    "notificationSectionMsg":"जैसे ही कुछ सूचनाएं आती हैं, हम उन्हें यहां सहेज लेंगे"
+}

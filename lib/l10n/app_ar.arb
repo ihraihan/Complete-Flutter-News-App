@@ -1,0 +1,23 @@
+{
+    "language": "عربى", 
+    "home": "رئيسي",
+    "explore": "يكتشف",
+    "saved": "أنقذ",
+    "settings": "الإعدادات",
+    "categories": "التصنيفات",
+    "generalSettings": "الاعدادات العامة",
+    "notfication": "تنبيه",
+    "darkMode": "مظهر داكن",
+    "changeLanguge": "لغة",
+    "about": "حول",
+    "termsAndConditions": "البنود و الظروف",
+    "privacyPolicy": "سياسة الخصوصية",
+    "rateThisApp": "قيم هذا التطبيق",
+    "social": "اجتماعي",
+    "contactUs": "اتصل بنا",
+    "website": "موقع الكتروني",
+    "savedSectionTitle":"يا! إنه فارغ هنا",
+    "savedSectionMsg":"إذا قمت بتصفح وحفظ بعض المقالات ، فستكون هنا",
+    "notificationSectionTitle":"يا! لا يوجد إخطار",
+    "notificationSectionMsg":"بمجرد وصول بعض الإشعارات ، سنقوم بحفظها هنا"
+}

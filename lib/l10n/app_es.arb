@@ -1,0 +1,23 @@
+{
+    "language": "Español", 
+    "home": "Hogar",
+    "explore": "Explorar",
+    "saved": "Guardado",
+    "settings": "Ajustes",
+    "categories": "Categorías",
+    "generalSettings": "Configuración general",
+    "notfication": "Notificación",
+    "darkMode": "Modo oscuro",
+    "changeLanguge": "Idioma",
+    "about": "Sobre",
+    "termsAndConditions": "Términos y condiciones",
+    "privacyPolicy": "Política de privacidad",
+    "rateThisApp": "Califica esta aplicación",
+    "social": "Redes sociales",
+    "contactUs": "Contacta con nosotros",
+    "website": "Sitio web",
+    "savedSectionTitle":"¡Oye! esta vacio aqui",
+    "savedSectionMsg":"Si navegas y guardas algún artículo, estará aquí",
+    "notificationSectionTitle":"¡Oye! No hay notificación",
+    "notificationSectionMsg":"Tan pronto como lleguen algunas notificaciones, las guardaremos aquí."
+}

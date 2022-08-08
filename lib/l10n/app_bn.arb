@@ -1,0 +1,23 @@
+{
+    "language": "বাংলা", 
+    "home": "হোম",
+    "explore": "অন্বেষণ",
+    "saved": "সংরক্ষিত",
+    "settings": "সেটিংস",
+    "categories": "বিভাগ",
+    "generalSettings": "সাধারণ সেটিংস",
+    "notfication": "বিজ্ঞপ্তি",
+    "darkMode": "ডার্ক মোড",
+    "changeLanguge": "ভাষা",
+    "about": "সম্পর্কিত",
+    "termsAndConditions": "শর্তাবলী",
+    "privacyPolicy": "গোপনীয়তা নীতি",
+    "rateThisApp": "অ্যাপ্লিকেশন রেটিং দিন",
+    "social": "সামাজিক মাধ্যম",
+    "contactUs": "যোগাযোগ করুন",
+    "website": "ওয়েবসাইট",
+    "savedSectionTitle":"আরে! এখানে খালি",
+    "savedSectionMsg":"আপনি যদি কিছু নিবন্ধ ব্রাউজ এবং সংরক্ষণ করেন, এটি এখানে থাকবে",
+    "notificationSectionTitle":"আরে! কোন বিজ্ঞপ্তি নেই",
+    "notificationSectionMsg":"কিছু বিজ্ঞপ্তি আসার সাথে সাথে আমরা সেগুলি এখানে সংরক্ষণ করব৷"
+}

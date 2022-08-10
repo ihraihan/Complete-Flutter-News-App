@@ -22,13 +22,15 @@ This project uses Flutter. The reason I (Raihan) chose Flutter is that I am very
 * External links, videos, embed, HTML tags and audios in between blogs support
 * Much More
 
-<img src="https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(1).jpg" width="290">|
-<img src="https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(3).jpg" width="290">|
-<img src="https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(7).jpg" width="290">|
-<img src="https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(9).jpg" width="290">|
-<img src="https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(6).jpg" width="290">|
-<img src="https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(10).jpg" width="290">|
-<img src="https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(2).jpg" width="290">|
+<img src="https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(1).jpg" width="290">|<br/><br/>
+<img src="https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(3).jpg" width="290">|<br/><br/>
+<img src="https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(7).jpg" width="290">|<br/><br/>
+<img src="https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(9).jpg" width="290">|<br/><br/>
+<img src="https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(6).jpg" width="290">|<br/><br/>
+<img src="https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(10).jpg" width="290">|<br/><br/>
+<img src="https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(2).jpg" width="290">|<br/><br/>
+<img src="https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(4).jpg" width="290">|<br/><br/>
+<img src="https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(5).jpg" width="290">|
 
 
 ## Contributing

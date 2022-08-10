@@ -11,6 +11,7 @@ This project uses Flutter. The reason I (Raihan) chose Flutter is that I am very
 ## Features included:
 * Shimmer Effect
 * Weather Api
+* Responsive UI
 * 5 Language Support
 * Page Pagination
 * Awesome Animation

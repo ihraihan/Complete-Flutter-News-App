@@ -1,6 +1,8 @@
-# newsgig
+# NewsGig
 
-A new Flutter project.
+Complete Flutter News App Using Wordpress API
+
+
 
 ## Getting Started
 

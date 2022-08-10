@@ -1,18 +1,29 @@
+
+![alt text](https://raw.githubusercontent.com/ihraihan/Complete-Flutter-News-App/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true)
 # NewsGig
 
 Complete Flutter News App Using Wordpress API
 
+## Technologies used
+
+This project uses Flutter. The reason I (Raihan) chose Flutter is that I am very comfortable with using the framework and that you only have to write once and can run anywhere.
+
+## Features included:
+* 5 Language Support
+* Page Pagination
+* Awesome Animation
+* Native language localization
+* Language switch, Dark/Light mode
+* Hive Database for reading offline articles
+* News search, categories, Home, saved, settings integration
+* Firebase, one signal push notification, in app notification
+* External links, videos, embed, HTML tags and audios in between blogs support
+* Much More
 
 
-## Getting Started
+## Contributing
+Contributions are always welcome!
 
-This project is a starting point for a Flutter application.
+See contributing.md for ways to get started.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Please adhere to this project's code of conduct.

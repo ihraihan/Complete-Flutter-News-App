@@ -13,6 +13,7 @@ This project uses Flutter. The reason I (Raihan) chose Flutter is that I am very
 * Weather Api
 * Responsive UI
 * 5 Language Support
+* Refresh Indicator
 * Page Pagination
 * Awesome Animation
 * Native language localization

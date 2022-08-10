@@ -29,7 +29,7 @@ This project uses Flutter. The reason I (Raihan) chose Flutter is that I am very
 <img src="https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(6).jpg" width="290">|&nbsp;
 <img src="https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(10).jpg" width="290">|&nbsp;
 <img src="https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(2).jpg" width="290">|&nbsp;
-<img src="https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(4).jpg" width="290">|&nbsp;
+<img src="https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(8).jpg" width="290">|&nbsp;
 <img src="https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(5).jpg" width="290">|
 
 

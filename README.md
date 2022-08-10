@@ -22,8 +22,8 @@ This project uses Flutter. The reason I (Raihan) chose Flutter is that I am very
 * External links, videos, embed, HTML tags and audios in between blogs support
 * Much More
 
-![alt text](https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(1).jpg=250x250?raw=true ")
-![alt text](https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(10).jpg?raw=true=250x250)
+<img src="[https://your-image-url.type](https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(1).jpg)" width="100">
+![alt text](https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(10).jpg?raw=true)
 ![alt text](https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(2).jpg?raw=true )
 ![alt text](https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(3).jpg?raw=true )
 ![alt text](https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(7).jpg?raw=true )

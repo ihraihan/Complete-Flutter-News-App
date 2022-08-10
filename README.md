@@ -9,6 +9,8 @@ Complete Flutter News App Using Wordpress API
 This project uses Flutter. The reason I (Raihan) chose Flutter is that I am very comfortable with using the framework and that you only have to write once and can run anywhere.
 
 ## Features included:
+* Shimmer Effect
+* Weather Api
 * 5 Language Support
 * Page Pagination
 * Awesome Animation
@@ -19,6 +21,14 @@ This project uses Flutter. The reason I (Raihan) chose Flutter is that I am very
 * Firebase, one signal push notification, in app notification
 * External links, videos, embed, HTML tags and audios in between blogs support
 * Much More
+
+![alt text](https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(1).jpg?raw=true)
+![alt text](https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(10).jpg?raw=true)
+![alt text](https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(2).jpg?raw=true)
+![alt text](https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(3).jpg?raw=true)
+![alt text](https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(7).jpg?raw=true)
+![alt text](https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(9).jpg?raw=true)
+![alt text](https://github.com/ihraihan/Complete-Flutter-News-App/blob/master/screenshots/1%20(6).jpg?raw=true)
 
 
 ## Contributing
